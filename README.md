@@ -1,5 +1,7 @@
 **Prediction-of-Product-Sales**
 
+  David Gbadebo
+  
 **Business problem**:
 
 The business problem we were trying to solve is to predict the sales of different products in various outlets, and understand how factors such as outlet size, location, product type, and fat content affect the sales. Our target variable is Item_Outlet_Sales, which represents the sales of each product in each outlet. Our features include Outlet_Size, Outlet_Location_Type, Item_Type, Outlet_Identifier, and Item_Fat_Content.
