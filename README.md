@@ -13,6 +13,7 @@ The business problem we were trying to solve is to predict the sales of differen
 **Data:**
 
 The data we used for our project is from a CSV file named “sales_predictions_2023.csv”, which contains 8523 rows and 12 columns. The data was obtained from a Kaggle competition named “BigMart Sales Prediction”. The data contains information about the products and outlets, such as item weight, visibility, maximum retail price, establishment year, etc. The data was clean and had no missing values or outliers.
+![image](https://github.com/davegbade/Prediction-of-Product-Sales/assets/34641995/8d0c3667-e6b6-49c0-9bbf-09d279fbac0a)
 
 **Methods:**
 
