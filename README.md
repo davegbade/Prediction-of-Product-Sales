@@ -30,6 +30,8 @@ The implication of the graph is that there is a slight difference in the mean It
 
 ![image](https://github.com/davegbade/Prediction-of-Product-Sales/assets/34641995/5f46717a-49b8-47db-8ab2-73e1d18c7679)
 
+The correlation between two variables is a measure of how they are related to each other. A correlation coefficient is a number between -1 and 1 that indicates the strength and direction of the relationship. A positive correlation means that the variables tend to move in the same direction, while a negative correlation means that they tend to move in opposite directions. A correlation coefficient close to 0 means that there is no linear relationship between the variables.
+
 
 
 
