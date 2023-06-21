@@ -44,6 +44,8 @@ The implication of this graph is that there is a weak negative relationship betw
 **Methods:**
 
 The methods we used for our project are as follows: * Data preparation: We performed some basic exploratory data analysis to understand the distribution and correlation of the variables. We also scaled the numerical variables using MinMaxScaler and encoded the categorical variables using OneHotEncoder. * Feature engineering: We created some new features based on the existing ones, such as Item_Price_Per_Unit_Weight, Outlet_Age, and Item_Type_Category. We also performed feature selection using SelectKBest with chi-squared test to reduce the dimensionality of the data. * Model selection: We compared different regression models, such as Linear Regression, Lasso Regression, Decision Tree Regression, Random Forest Regression, and Baseline Model. We used cross-validation and mean squared error as the evaluation metric. * Model optimization: We tuned the hyperparameters of the best performing model using GridSearchCV and RandomizedSearchCV. We also performed feature importance analysis using SHAP values to understand how each feature contributes to the prediction.
+![image](https://github.com/davegbade/Prediction-of-Product-Sales/assets/34641995/f0863585-fc77-4859-8cf8-0d58111ddc07)
+
 
 **Results:**
 
