@@ -48,6 +48,9 @@ The methods we used for our project are as follows: * Data preparation: We perfo
 **Results:**
 
 The results of our project are as follows: * Final model: The best performing model was XGBoost Regression with n_estimators=1000, max_depth=6, learning_rate=0.1, and subsample=0.8. This model achieved a mean squared error of 1154.32 on the test set. * Performance metrics: The final model had a root mean squared error of 33.97 and a coefficient of determination of 0.59 on the test set. This means that the model can explain 59% of the variance in the sales data. * Insights: Some of the insights we gained from our project are: - The most important features for predicting sales were Item_MRP (maximum retail price), Outlet_Type_Supermarket Type3 (a type of outlet), Item_Visibility (the percentage of total display area of all products in a store allocated to a particular product), Outlet_Identifier_OUT027 (a specific outlet), and Item_Weight (the weight of a product). - The sales were higher for products with higher maximum retail price, lower visibility, higher weight, and sold in Supermarket Type3 outlets. - The sales were lower for products with lower maximum retail price, higher visibility, lower weight, and sold in Grocery Store outlets. - The sales were not significantly affected by the fat content or the type of product.
+
+![image](https://github.com/davegbade/Prediction-of-Product-Sales/assets/34641995/6b5011e9-8753-4555-bc82-55e6fbef1af8)
+
  
 ** Model and evaluation:**
 
