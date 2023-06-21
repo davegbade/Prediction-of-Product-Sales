@@ -3,6 +3,8 @@
 </p>
 
 Data Dictionary:
+
+
 ![image](https://github.com/davegbade/Prediction-of-Product-Sales/assets/34641995/6a242b9f-f58e-4bb5-b36b-07ad70f9e4d4)
 
 
