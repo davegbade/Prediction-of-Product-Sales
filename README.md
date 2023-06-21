@@ -64,6 +64,9 @@ The model we used was XGBoost Regression, which is a gradient boosting algorithm
 **Recommendations:**
 
 Some of the recommendations we can make based on our results are: * Increase the maximum retail price of products that have high demand and low competition. * Decrease the visibility of products that have low demand and high competition. * Increase the weight of products that have high demand and low competition. * Promote Supermarket Type3 outlets more than Grocery Store outlets. * Experiment with different types of products and fat content to see if they have any impact on sales.
+Model recommended: Tuned Decision Tree Model
+
+It had the lowest error scores for RMSE which is most important for this business problem. It should usually be able to predict a sale price within 1028
 
 **Limitations:**
 
