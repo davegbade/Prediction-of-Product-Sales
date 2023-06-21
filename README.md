@@ -37,7 +37,7 @@ The correlation between two variables is a measure of how they are related to ea
 
 ![image](https://github.com/davegbade/Prediction-of-Product-Sales/assets/34641995/269606d8-84ce-4f50-a31c-031331976355)
 
-
+The implication of this graph is that there is a weak negative relationship between Item_Visibility and Item_Outlet_Sales, meaning that items with higher visibility tend to have lower sales than items with lower visibility, but the relationship is not very strong or consistent. The graph shows the distribution of the data points and the slope of the line of best fit. This graph can help you explore and understand the data better, but it does not imply any causal relationship between the variables.
 
 
 
