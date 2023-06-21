@@ -56,6 +56,9 @@ The results of our project are as follows: * Final model: The best performing mo
 
 The model we used was XGBoost Regression, which is a gradient boosting algorithm that builds an ensemble of decision trees. We chose this algorithm because it is fast, scalable, and robust to outliers and noise. We tuned the hyperparameters of the model using GridSearchCV and RandomizedSearchCV, and selected the best combination based on the mean squared error. The hyperparameters we used were n_estimators=1000, max_depth=6, learning_rate=0.1, and subsample=0.8. We evaluated the model using cross-validation with 5 folds, and calculated the mean squared error, the root mean squared error, and the coefficient of determination for each fold. We also evaluated the model on a separate test set that was not used for training or validation.
 
+![image](https://github.com/davegbade/Prediction-of-Product-Sales/assets/34641995/f353704b-ed0f-4132-bbfa-645ec13c19f5)
+
+
 **Recommendations:**
 
 Some of the recommendations we can make based on our results are: * Increase the maximum retail price of products that have high demand and low competition. * Decrease the visibility of products that have low demand and high competition. * Increase the weight of products that have high demand and low competition. * Promote Supermarket Type3 outlets more than Grocery Store outlets. * Experiment with different types of products and fat content to see if they have any impact on sales.
