@@ -22,6 +22,7 @@ The business problem we were trying to solve is to predict the sales of differen
 The data we used for our project is from a CSV file named “sales_predictions_2023.csv”, which contains 8523 rows and 12 columns. The data was obtained from a Kaggle competition named “BigMart Sales Prediction”. The data contains information about the products and outlets, such as item weight, visibility, maximum retail price, establishment year, etc. The data was clean and had no missing values or outliers.
 
 Exploratory Data Analysis:
+To draw a bar chart comparing Item_Fat_Content to Item_Outlet_Sales.
 
 ![image](https://github.com/davegbade/Prediction-of-Product-Sales/assets/34641995/e2854333-a081-405b-ab02-d146a150c060)
 
