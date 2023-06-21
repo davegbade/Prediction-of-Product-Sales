@@ -28,6 +28,10 @@ Exploratory Data Analysis:
 The implication of the graph is that there is a slight difference in the mean Item_Outlet_Sales between the low fat and regular Item_Fat_Content categories, with the regular category having a slightly higher mean. The graph also shows the distribution of the data points and the confidence intervals for the mean. An outlier is a data point that is far away from the rest of the data points. In this graph, there is one outlier in the low fat category that has a very high Item_Outlet_Sales value. This could be due to an error in the data collection or an unusual case that needs further investigation
 
 
+![image](https://github.com/davegbade/Prediction-of-Product-Sales/assets/34641995/5f46717a-49b8-47db-8ab2-73e1d18c7679)
+
+
+
 
 **Methods:**
 
