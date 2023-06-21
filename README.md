@@ -2,6 +2,8 @@
   <img src = "https://raw.githubusercontent.com/coding-dojo-data-science/CodingDojo_Images/main/data-science.jpg">
 </p>
 
+![image](https://github.com/davegbade/Prediction-of-Product-Sales/assets/34641995/6a242b9f-f58e-4bb5-b36b-07ad70f9e4d4)
+
 - Variable Name	Description
 - Item_Identifier	Product ID
 - Item_Weight	Weight of product
