@@ -33,6 +33,7 @@ The implication of the graph is that there is a slight difference in the mean It
 
 The correlation between two variables is a measure of how they are related to each other. A correlation coefficient is a number between -1 and 1 that indicates the strength and direction of the relationship. A positive correlation means that the variables tend to move in the same direction, while a negative correlation means that they tend to move in opposite directions. A correlation coefficient close to 0 means that there is no linear relationship between the variables.
 
+"To draw a linear graph showing the relationship between Item_Visibility and Item_Outlet_Sales, you can use the following code:
 
 ![image](https://github.com/davegbade/Prediction-of-Product-Sales/assets/34641995/269606d8-84ce-4f50-a31c-031331976355)
 
